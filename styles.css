@@ -1,0 +1,39 @@
+/* STyling the body */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* The header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+/* Styling the main content section */
+main {
+    text-align: center;
+    padding: 2rem;
+}
+
+/* Style each section containing information */
+section {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+
+/* Styling the link to GitHub */
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+/* Styling images */
+img {
+    max-width: 100%;
+    height: auto;
+}
